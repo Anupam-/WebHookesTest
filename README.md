@@ -1,2 +1,2 @@
 # WebHookesTest
-Testing git webhooks
+This is a test repository for webhook implementation
